@@ -1,5 +1,5 @@
 [![SQBBF.gif](https://s11.gifyu.com/images/SQBBF.gif)](https://www.linkedin.com/in/alokahirrao/)
-
+<img align="right" alt="Coding" width="400" src="https://s12.gifyu.com/images/SQBOG.gif">
 <h1 align="center">Hi 👋, I'm Alok Ahirrao</h1>
 <h3 align="center">A passionate AI/Machine learning developer from India</h3>
 
