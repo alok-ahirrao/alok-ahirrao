@@ -1,8 +1,9 @@
 ![Github Banner](https://github.com/alok-ahirrao/alok-ahirrao/blob/main/Github_banner_alok.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alok-ahirrao&label=Profile%20views&color=0e75b6&style=flat" alt="alok-ahirrao" /> </p>
 
 <h3 align="center">A passionate AI/Machine learning developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alok-ahirrao&label=Profile%20views&color=0e75b6&style=flat" alt="alok-ahirrao" /> </p>
+
 
 
 <a target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
