@@ -89,3 +89,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-ahirrao&show_icons=true&locale=en&layout=compact&theme=dark" alt="alok-ahirrao" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok-ahirrao&show_icons=true&locale=en&theme=dark" alt="alok-ahirrao" /></p>
+
+
+### 🏅 My Achievements
+
+#### Google Developer
+- ![Attendee I/O '23](https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg)
+- ![Completed 5+ Codelab](https://developers.google.com/static/profile/badges/codelabs/first-codelab/badge.svg)
+- ![Get started with image classification](https://developers.google.com/static/profile/badges/playlists/ml/going-further-image-classification/badge.svg)
+- ![TensorFlow badge](https://developers.google.com/static/profile/badges/playlists/tensorflow/badge.svg)
+
+#### LeetCode
+- ![LeetCode 100 Days Badge 2024](https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png)
+- ![LeetCode 50 Days Badge 2024](https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png)
+- ![LeetCode 50 Days Badge 2025](https://assets.leetcode.com/static_assets/others/lg2550.png)
+
