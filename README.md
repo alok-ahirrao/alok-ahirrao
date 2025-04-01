@@ -86,8 +86,6 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-ahirrao&show_icons=true&locale=en&layout=compact" alt="alok-ahirrao" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-ahirrao&show_icons=true&locale=en&layout=compact&theme=dark" alt="alok-ahirrao" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok-ahirrao&show_icons=true&locale=en" alt="alok-ahirrao" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-ahirrao&" alt="alok-ahirrao" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok-ahirrao&show_icons=true&locale=en&theme=dark" alt="alok-ahirrao" /></p>
