@@ -108,6 +108,6 @@
   <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="LeetCode 50 Days Badge 2025" height="50" />
 </div>
 
-### My GitHub Snake
+### 🐍 GitHub Snake
 
-![snake gif](https://github.com/alok-ahirrao/alok-ahirrao/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake](https://github.com/alok-ahirrao/alok-ahirrao/blob/main/github-contribution-grid-snake-dark.svg)
