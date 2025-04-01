@@ -3,21 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok-ahirrao&label=Profile%20views&color=0e75b6&style=flat" alt="alok-ahirrao" /> </p>
 
-- 🔭 I’m currently working on **I am currently working on a computer vision project as part of my engineering studies. It involves developing algorithms and techniques to analyze and understand images and videos using AI and machine learning.**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<h3>AI/Machine learning Engineer</h3>
+- 🔭 **Current Work**: Working on a computer vision and LLM project using AI/ML.
 
-- 🌱 I’m currently learning **Currently, I am focusing on expanding my knowledge and skills in AI, machine learning, and deep learning. I am keeping up with the latest research papers, exploring new algorithms, and experimenting with different frameworks and tools.**
+- 👯 **Collaboration**: Open to AI/ML and deep learning projects. 
 
-- 👯 I’m looking to collaborate on **I'm interested in collaborating on projects related to AI, machine learning, deep learning, and AI development. I'm open to collaborating with individuals or teams who are working on innovative projects in these fields**
+- 🤝  **Looking for Help**: Seeking guidance to improve my AI/ML skills. 
 
-- 🤝 I’m looking for help with **I'm looking for assistance and guidance in further enhancing my skills and knowledge in AI, machine learning, and deep learning. If anyone has expertise in these areas and is willing to mentor or provide guidance, I would greatly appreciate the help.**
+- 👨‍💻 **Projects**: Available on [LinkedIn](https://www.linkedin.com/in/alokahirrao/).
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alokahirrao/](https://www.linkedin.com/in/alokahirrao/)
-
-- 💬 Ask me about **Feel free to ask me anything related to AI, machine learning, deep learning, or computer vision. I'll do my best to provide insights and answers based on my knowledge and experiences.**
-
-- 📫 How to reach me **alok.ahirrao1108@gmail.com**
-
-- ⚡ Fun fact **Did you know that AI and machine learning techniques are being used in various industries, ranging from healthcare and finance to transportation and entertainment? The possibilities and applications of AI are constantly expanding, making it an exciting field to be a part of!**
+- 💬 **Ask Me About**: AI, ML, deep learning, and computer vision.
+  
+- 📫 How to reach me **alokahirrao.ai@gmai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
