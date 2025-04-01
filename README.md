@@ -1,8 +1,8 @@
 ![Github Banner](https://github.com/alok-ahirrao/alok-ahirrao/blob/main/Github_banner_alok.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alok-ahirrao&label=Profile%20views&color=0e75b6&style=flat" alt="alok-ahirrao" style="display: inline-block;" />
-  <span style="display: inline-block; margin-left: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=alok-ahirrao&label=Profile%20views&color=0e75b6&style=flat" alt="alok-ahirrao" style="float: left;"/>
+  <span style="float: right; margin-left: 10px;">
     <a href="https://www.linkedin.com/in/alokahirrao/" target="_blank"><img alt="LinkedIn" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
     <a href="https://github.com/alok-ahirrao" target="_blank"><img alt="Github" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
     <a href="https://leetcode.com/u/Alok1108/" target="_blank"><img alt="LeetCode" width="22" src="https://cdn.simpleicons.org/leetcode/white" /></a>
