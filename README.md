@@ -94,13 +94,17 @@
 ### 🏅 My Achievements
 
 #### Google Developer
-- <img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" alt="Attendee I/O '23" height="50" />
-- <img src="https://developers.google.com/static/profile/badges/codelabs/first-codelab/badge.svg" alt="Completed 5+ Codelab" height="50" />
-- <img src="https://developers.google.com/static/profile/badges/playlists/ml/going-further-image-classification/badge.svg" alt="Get started with image classification" height="50" />
-- <img src="https://developers.google.com/static/profile/badges/playlists/tensorflow/badge.svg" alt="TensorFlow badge" height="50" />
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" alt="Attendee I/O '23" height="50" style="margin-right: 10px;" />
+  <img src="https://developers.google.com/static/profile/badges/codelabs/first-codelab/badge.svg" alt="Completed 5+ Codelab" height="50" style="margin-right: 10px;" />
+  <img src="https://developers.google.com/static/profile/badges/playlists/ml/going-further-image-classification/badge.svg" alt="Get started with image classification" height="50" style="margin-right: 10px;" />
+  <img src="https://developers.google.com/static/profile/badges/playlists/tensorflow/badge.svg" alt="TensorFlow badge" height="50" style="margin-right: 10px;" />
+</div>
 
 #### LeetCode
-- <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="LeetCode 100 Days Badge 2024" height="50" />
-- <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode 50 Days Badge 2024" height="50" />
-- <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="LeetCode 50 Days Badge 2025" height="50" />
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="LeetCode 100 Days Badge 2024" height="50" style="margin-right: 10px;" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode 50 Days Badge 2024" height="50" style="margin-right: 10px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="LeetCode 50 Days Badge 2025" height="50" />
+</div>
 
