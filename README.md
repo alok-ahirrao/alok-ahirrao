@@ -1,3 +1,27 @@
+![Github Banner](https://github.com/alok-ahirrao/alok-ahirrao/blob/main/Github_banner_alok.png)
+
+<h1>Hi 👋, I'm Alok Ahirrao</h1>
+<p>A passionate AI/Machine learning developer from India</p>
+
+<h2>🚀 Languages and Tools I Use</h2>
+<p>
+    <a target="_blank" href="https://github.com/tandpfun/skill-icons/blob/main/icons/python/python-original.svg" style="display: inline-block;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/python/python-original.svg?raw=true" alt="python" width="42" height="42" />
+    </a>
+    <a target="_blank" href="https://github.com/tandpfun/skill-icons/blob/main/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/cplusplus/cplusplus-original.svg?raw=true" alt="cplusplus" width="42" height="42" />
+    </a>
+    <a target="_blank" href="https://github.com/tandpfun/skill-icons/blob/main/icons/java/java-original.svg" style="display: inline-block;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/java/java-original.svg?raw=true" alt="java" width="42" height="42" />
+    </a>
+    <a target="_blank" href="https://github.com/tandpfun/skill-icons/blob/main/icons/react/react-original.svg" style="display: inline-block;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/react/react-original.svg?raw=true" alt="react" width="42" height="42" />
+    </a>
+    <a target="_blank" href="https://github.com/tandpfun/skill-icons/blob/main/icons/css3/css3-original.svg" style="display: inline-block;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/css3/css3-original.svg?raw=true" alt="css3" width="42" height="42" />
+    </a>
+    <
+
 [![SQBBF.gif](https://s11.gifyu.com/images/SQBBF.gif)](https://www.linkedin.com/in/alokahirrao/)
 
 <h1 align="center">Hi 👋, I'm Alok Ahirrao</h1>
