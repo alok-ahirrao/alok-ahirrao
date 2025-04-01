@@ -10,12 +10,9 @@
 </p>
 
 
+<a target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 <h3 align="center">A passionate AI/Machine learning developer from India</h3>
 
-
-
-<a target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
-<h3>AI/Machine learning Engineer</h3>
 - 🔭 **Current Work**: Working on a computer vision and LLM project using AI/ML.
 
 - 👯 **Collaboration**: Open to AI/ML and deep learning projects. 
