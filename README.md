@@ -38,7 +38,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a target="_blank"><img align='right' src='https://github.com/alok-ahirrao/alok-ahirrao/blob/main/coding_1.png' width='250'></a>
+<a target="_blank"><img align='right' src='https://github.com/alok-ahirrao/alok-ahirrao/blob/main/coding_profile.png' width='250'></a>
 <div align="left">
   <!-- Frontend -->
   <h4>Frontend</h4>
