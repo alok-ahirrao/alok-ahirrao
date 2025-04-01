@@ -42,6 +42,135 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-ahirrao&show_icons=true&locale=en&layout=compact" alt="alok-ahirrao" /></p>
 
+
+
+<p align="left">
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank">
+    <img alt="PyTorch" width="40" src="https://cdn.simpleicons.org/pytorch/white" />
+  </a>
+  
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img alt="TensorFlow" width="40" src="https://cdn.simpleicons.org/tensorflow/white" />
+  </a>
+  
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit-learn" width="40" src="https://cdn.simpleicons.org/scikit-learn/white" />
+  </a>
+
+  <!-- XGBoost -->
+  <a href="https://xgboost.readthedocs.io/" target="_blank">
+    <img alt="XGBoost" width="40" src="https://cdn.simpleicons.org/xgboost/white" />
+  </a>
+
+  <!-- Deep Learning -->
+  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
+    <img alt="Deep Learning" width="40" src="https://cdn.simpleicons.org/deep-learning/white" />
+  </a>
+
+  <!-- Reinforcement Learning -->
+  <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">
+    <img alt="Reinforcement Learning" width="40" src="https://cdn.simpleicons.org/reinforcement-learning/white" />
+  </a>
+
+  <!-- Computer Vision -->
+  <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">
+    <img alt="Computer Vision" width="40" src="https://cdn.simpleicons.org/computer-vision/white" />
+  </a>
+
+  <!-- NLP -->
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+    <img alt="NLP" width="40" src="https://cdn.simpleicons.org/nlp/white" />
+  </a>
+
+  <!-- Data Science & Analytics -->
+  <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">
+    <img alt="Data Science" width="40" src="https://cdn.simpleicons.org/datascience/white" />
+  </a>
+
+  <!-- Data Wrangling -->
+  <a href="https://en.wikipedia.org/wiki/Data_wrangling" target="_blank">
+    <img alt="Data Wrangling" width="40" src="https://cdn.simpleicons.org/data-wrangling/white" />
+  </a>
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" width="40" src="https://cdn.simpleicons.org/pandas/white" />
+  </a>
+
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank">
+    <img alt="NumPy" width="40" src="https://cdn.simpleicons.org/numpy/white" />
+  </a>
+
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank">
+    <img alt="Matplotlib" width="40" src="https://cdn.simpleicons.org/matplotlib/white" />
+  </a>
+
+  <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img alt="Seaborn" width="40" src="https://cdn.simpleicons.org/seaborn/white" />
+  </a>
+
+  <!-- SQL -->
+  <a href="https://www.sql.com/" target="_blank">
+    <img alt="SQL" width="40" src="https://cdn.simpleicons.org/sql/white" />
+  </a>
+
+  <!-- Big Data -->
+  <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">
+    <img alt="Big Data" width="40" src="https://cdn.simpleicons.org/bigdata/white" />
+  </a>
+
+  <!-- Data Visualization -->
+  <a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank">
+    <img alt="Data Visualization" width="40" src="https://cdn.simpleicons.org/datavisualization/white" />
+  </a>
+
+  <!-- Programming & Tools -->
+  <a href="https://en.wikipedia.org/wiki/Programming_language" target="_blank">
+    <img alt="Programming" width="40" src="https://cdn.simpleicons.org/programming/white" />
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" width="40" src="https://cdn.simpleicons.org/python/white" />
+  </a>
+
+  <!-- Jupyter Notebooks -->
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter Notebooks" width="40" src="https://cdn.simpleicons.org/jupyter/white" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" width="40" src="https://cdn.simpleicons.org/git/white" />
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" width="40" src="https://cdn.simpleicons.org/docker/white" />
+  </a>
+
+  <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI" width="40" src="https://cdn.simpleicons.org/fastapi/white" />
+  </a>
+
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img alt="AWS" width="40" src="https://cdn.simpleicons.org/amazonaws/white" />
+  </a>
+
+  <!-- Azure -->
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Azure" width="40" src="https://cdn.simpleicons.org/azure/white" />
+  </a>
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok-ahirrao&show_icons=true&locale=en" alt="alok-ahirrao" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-ahirrao&" alt="alok-ahirrao" /></p>
