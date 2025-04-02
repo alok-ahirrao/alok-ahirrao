@@ -6,6 +6,7 @@
     <a href="https://www.linkedin.com/in/alokahirrao/" target="_blank"><img alt="LinkedIn" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
     <a href="https://github.com/alok-ahirrao" target="_blank"><img alt="Github" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
     <a href="https://leetcode.com/u/Alok1108/" target="_blank"><img alt="LeetCode" width="22" src="https://cdn.simpleicons.org/leetcode/white" /></a>
+    <a href="https://alokahirrao.netlify.app" target="_blank"><img alt="Resume" width="22" src="https://cdn-icons-png.freepik.com/256/942/942748.png?semt=ais_hybrid" /></a> 
   </span>
 </p>
 
@@ -20,9 +21,13 @@
 
 - 👨‍💻 **Projects**: Available on [LinkedIn](https://www.linkedin.com/in/alokahirrao/).
 
+- 📄 **Resume**: Available at [alokahirrao.netlify.app](https://alokahirrao.netlify.app).
+
 - 💬 **Ask Me About**: AI, ML, deep learning, and computer vision.
   
 - 📫 How to reach me **alokahirrao.ai@gmai.com**
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
