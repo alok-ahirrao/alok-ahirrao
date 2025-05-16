@@ -21,7 +21,9 @@
 
 - 👨‍💻 **Projects**: Available on [LinkedIn](https://www.linkedin.com/in/alokahirrao/).
 
-- 📄 **Resume**: Available at [alokahirrao.netlify.app](https://alokahirrao.netlify.app).
+- 🗂️ **Portfolio**: Available at [alokahirrao.netlify.app](https://alokahirrao.netlify.app).
+
+- 📄 **Resume**: Available at [alok11.netlify.app](https://alok11.netlify.app).
 
 - 💬 **Ask Me About**: AI, ML, deep learning, and computer vision.
   
