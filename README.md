@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alok-ahirrao&label=Profile%20views&color=0e75b6&style=flat" alt="alok-ahirrao" style="float: left;"/>
   <span style="float: right; margin-left: 10px;">
-    <a href="https://www.linkedin.com/in/alokahirrao/" target="_blank"><img alt="LinkedIn" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
+    <a href="https://www.linkedin.com/in/alokahirrao/" target="_blank"><img alt="LinkedIn" width="22" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw2Xo2qTIUn2pnNaME284PC8&ust=1751108635387000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDWoZW6kY4DFQAAAAAdAAAAABAE" /></a>
     <a href="https://github.com/alok-ahirrao" target="_blank"><img alt="Github" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
     <a href="https://leetcode.com/u/Alok1108/" target="_blank"><img alt="LeetCode" width="22" src="https://cdn.simpleicons.org/leetcode/white" /></a>
     <a href="https://alokahirrao.netlify.app" target="_blank"><img alt="Resume" width="22" src="https://cdn-icons-png.freepik.com/256/942/942748.png?semt=ais_hybrid" /></a> 
