@@ -29,28 +29,29 @@
   
 - 📫 How to reach me **alokahirrao.ai@gmai.com**
 
-<h3> I build AI that doesn’t just work — it scales, adapts, and delivers measurable impact.</h3>
+<h3>I build AI that doesn’t just work — it scales, adapts, and delivers measurable impact.</h3>
 
 In under a year, I’ve:
-- Delivered AI systems with **high accuracy** in production.
-- Built **full-stack AI products** integrating chatbots, detection systems, and dashboards.
-- Solved **338+ LeetCode problems**, applying strong skills in Dynamic Programming, Arrays, and Trees.
-- Earned **Google** + **AWS certifications** while still early in my career.
+- Delivered AI systems with <b>high accuracy</b> in production.
+- Built <b>full-stack AI products</b> integrating chatbots, detection systems, and dashboards.
+- Solved <b>338+ LeetCode problems</b>, applying strong skills in Dynamic Programming, Arrays, and Trees.
+- Earned <b>Google</b> + <b>AWS certifications</b> while still early in my career.
   
-<h3>📍 My Journey </h3>
+<h3>📍 My Journey</h3>
 In early 2024, I began my AI/ML career with a passion for building scalable, real-world applications.  
-During my internship at **Ilytics Technology**, I led the development of a complete **Smart Parking System** — from **Python microservices** to a **React + Node.js dashboard** — that reduced manual input time.
+During my internship at <b>Ilytics Technology</b>, I led the development of a complete <b>Smart Parking System</b> — from <b>Python microservices</b> to a <b>React + Node.js dashboard</b> — that reduced manual input time.
 
-<h3> 💡 What I Bring to the Table </h3>
-- **Core Skills:** Python, TensorFlow, PyTorch, FastAPI, React, Cloud Infrastructure  
-- **Specialties:** NLP, Computer Vision, LLMs, and AI agent production deployment  
-- **Strengths:** End-to-end solution building, prompt engineering, and scalable system design  
+<h3>💡 What I Bring to the Table</h3>
+- <b>Core Skills:</b> Python, TensorFlow, PyTorch, FastAPI, React, Cloud Infrastructure  
+- <b>Specialties:</b> NLP, Computer Vision, LLMs, and AI agent production deployment  
+- <b>Strengths:</b> End-to-end solution building, prompt engineering, and scalable system design  
 
-<h3> 🎯 My Next Step </h3>
-I’m actively seeking **AI/ML Engineer**, **Research**, or **SDE** roles where I can contribute to innovative projects and keep pushing the limits of what AI can do.
+<h3>🎯 My Next Step</h3>
+I’m actively seeking <b>AI/ML Engineer</b>, <b>Research</b>, or <b>SDE</b> roles where I can contribute to innovative projects and keep pushing the limits of what AI can do.
 
-<h3> ⚡ Closing Statement </h3>
-I deliver AI solutions that are not just functional — but **impactful**, **scalable**, and **ready for real-world challenges**.
+<h3>⚡ Closing Statement</h3>
+I deliver AI solutions that are not just functional — but <b>impactful</b>, <b>scalable</b>, and <b>ready for real-world challenges</b>.
+
   
 
 <h3 align="left">Connect with me:</h3>
