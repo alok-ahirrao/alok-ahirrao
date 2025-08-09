@@ -11,6 +11,24 @@
 </p>
 
 <a target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<h3>A passionate AI/Machine learning developer from India</h3>
+
+- 🔭 **Current Work**: Working on a computer vision and LLM project using AI/ML.
+
+- 👯 **Collaboration**: Open to AI/ML and deep learning projects. 
+
+- 🤝  **Looking for Help**: Seeking guidance to improve my AI/ML skills. 
+
+- 👨‍💻 **Projects**: Available on [LinkedIn](https://www.linkedin.com/in/alokahirrao/).
+
+- 🗂️ **Portfolio**: Available at [alokahirrao.netlify.app](https://alokahirrao.netlify.app).
+
+- 📄 **Resume**: Available at [alok11.netlify.app](https://alok11.netlify.app).
+
+- 💬 **Ask Me About**: AI, ML, deep learning, and computer vision.
+  
+- 📫 How to reach me **alokahirrao.ai@gmai.com**
+
 <h3>I build AI that doesn’t just work — it scales, adapts, and delivers measurable impact.</h3>
 
 In under a year, I’ve:
@@ -34,23 +52,6 @@ I’m actively seeking <b>AI/ML Engineer</b>, <b>Research</b>, or <b>SDE</b> rol
 <h3>⚡ Closing Statement</h3>
 I deliver AI solutions that are not just functional — but <b>impactful</b>, <b>scalable</b>, and <b>ready for real-world challenges</b>.
 
-<h3>A passionate AI/Machine learning developer from India</h3>
-
-- 🔭 **Current Work**: Working on a computer vision and LLM project using AI/ML.
-
-- 👯 **Collaboration**: Open to AI/ML and deep learning projects. 
-
-- 🤝  **Looking for Help**: Seeking guidance to improve my AI/ML skills. 
-
-- 👨‍💻 **Projects**: Available on [LinkedIn](https://www.linkedin.com/in/alokahirrao/).
-
-- 🗂️ **Portfolio**: Available at [alokahirrao.netlify.app](https://alokahirrao.netlify.app).
-
-- 📄 **Resume**: Available at [alok11.netlify.app](https://alok11.netlify.app).
-
-- 💬 **Ask Me About**: AI, ML, deep learning, and computer vision.
-  
-- 📫 How to reach me **alokahirrao.ai@gmai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
