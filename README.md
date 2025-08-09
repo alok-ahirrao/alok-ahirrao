@@ -29,33 +29,25 @@
   
 - 📫 How to reach me **alokahirrao.ai@gmai.com**
 
-# I build AI that doesn’t just work — it scales, adapts, and delivers measurable impact.
+## I build AI that doesn’t just work — it scales, adapts, and delivers measurable impact.
 
 In under a year, I’ve:
 - Delivered AI systems with **high accuracy** in production.
 - Built **full-stack AI products** integrating chatbots, detection systems, and dashboards.
 - Solved **338+ LeetCode problems**, applying strong skills in Dynamic Programming, Arrays, and Trees.
 - Earned **Google** + **AWS certifications** while still early in my career.
-
----
-
+  
 ## 📍 My Journey
 In early 2024, I began my AI/ML career with a passion for building scalable, real-world applications.  
 During my internship at **Ilytics Technology**, I led the development of a complete **Smart Parking System** — from **Python microservices** to a **React + Node.js dashboard** — that reduced manual input time.
-
----
 
 ## 💡 What I Bring to the Table
 - **Core Skills:** Python, TensorFlow, PyTorch, FastAPI, React, Cloud Infrastructure  
 - **Specialties:** NLP, Computer Vision, LLMs, and AI agent production deployment  
 - **Strengths:** End-to-end solution building, prompt engineering, and scalable system design  
 
----
-
 ## 🎯 My Next Step
 I’m actively seeking **AI/ML Engineer**, **Research**, or **SDE** roles where I can contribute to innovative projects and keep pushing the limits of what AI can do.
-
----
 
 ## ⚡ Closing Statement
 I deliver AI solutions that are not just functional — but **impactful**, **scalable**, and **ready for real-world challenges**.
