@@ -12,7 +12,26 @@
 
 <a target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 <h3>A passionate AI/Machine learning developer from India</h3>
+𝗜 𝗯𝘂𝗶𝗹𝗱 𝗔𝗜 𝘁𝗵𝗮𝘁 𝗱𝗼𝗲𝘀𝗻’𝘁 𝗷𝘂𝘀𝘁 𝘄𝗼𝗿𝗸 - 𝗶𝘁 𝘀𝗰𝗮𝗹𝗲𝘀, 𝗮𝗱𝗮𝗽𝘁𝘀, 𝗮𝗻𝗱 𝗱𝗲𝗹𝗶𝘃𝗲𝗿𝘀 𝗺𝗲𝗮𝘀𝘂𝗿𝗮𝗯𝗹𝗲 𝗶𝗺𝗽𝗮𝗰𝘁.
+In under a year, I’ve:
+• Delivered AI systems with 𝗵𝗶𝗴𝗵 𝗮𝗰𝗰𝘂𝗿𝗮𝗰𝘆 in production.
+• Built 𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗔𝗜 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 integrating chatbots, detection systems, and dashboards.
+• Solved 𝟯𝟯𝟴+ 𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀, applying strong skills in Dynamic Programming, Arrays, and Tree
+• Earned 𝗚𝗼𝗼𝗴𝗹𝗲 + 𝗔𝗪𝗦 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 while still early in my career.
 
+Here’s how I got here. 👇
+📍 𝗠𝘆 𝗷𝗼𝘂𝗿𝗻𝗲𝘆:
+In early 2024, I began my AI/ML career with a passion for building scalable, real-world applications. During my internship at 𝗜𝗹𝘆𝘁𝗶𝗰𝘀 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆, I led the development of a complete 𝗦𝗺𝗮𝗿𝘁 𝗣𝗮𝗿𝗸𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺 - from 𝗣𝘆𝘁𝗵𝗼𝗻 𝗺𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 to a 𝗥𝗲𝗮𝗰𝘁 + 𝗡𝗼𝗱𝗲.𝗷𝘀 dashboard that reduced manual input time.
+
+💡 𝗪𝗵𝗮𝘁 𝗜 𝗯𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝘁𝗮𝗯𝗹𝗲:
+• 𝗖𝗼𝗿𝗲 𝗦𝗸𝗶𝗹𝗹𝘀: Python, TensorFlow, PyTorch, FastAPI, React, Cloud Infrastructure
+• 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝘁𝗶𝗲𝘀: NLP, Computer Vision, LLMs, and AI agent production deployment
+• 𝗦𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀: End-to-end solution building, prompt engineering, and scalable system design
+
+🎯 𝗠𝘆 𝗻𝗲𝘅𝘁 𝘀𝘁𝗲𝗽:
+I’m actively seeking 𝗔𝗜/𝗠𝗟 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿, 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵, 𝗼𝗿 𝗦𝗗𝗘 roles where I can contribute to innovative projects and keep pushing the limits of what AI can do.
+
+⚡ 𝗜 𝗱𝗲𝗹𝗶𝘃𝗲𝗿 𝗔𝗜 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝘁 𝗮𝗿𝗲 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 -𝗯𝘂𝘁 𝗶𝗺𝗽𝗮𝗰𝘁𝗳𝘂𝗹, 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲, 𝗮𝗻𝗱 𝗿𝗲𝗮𝗱𝘆 𝗳𝗼𝗿 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀
 - 🔭 **Current Work**: Working on a computer vision and LLM project using AI/ML.
 
 - 👯 **Collaboration**: Open to AI/ML and deep learning projects. 
