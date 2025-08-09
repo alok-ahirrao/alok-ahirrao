@@ -29,7 +29,7 @@
   
 - 📫 How to reach me **alokahirrao.ai@gmai.com**
 
-<h3>I build AI that doesn’t just work — it scales, adapts, and delivers measurable impact.</h3>
+<h3>I build AI that doesn’t just work  it scales, adapts, and delivers measurable impact.</h3>
 
 In under a year, I’ve:
 - Delivered AI systems with <b>high accuracy</b> in production.
@@ -39,7 +39,7 @@ In under a year, I’ve:
   
 <h3>📍 My Journey</h3>
 In early 2024, I began my AI/ML career with a passion for building scalable, real-world applications.  
-During my internship at <b>Ilytics Technology</b>, I led the development of a complete <b>Smart Parking System</b> — from <b>Python microservices</b> to a <b>React + Node.js dashboard</b> — that reduced manual input time.
+During my internship at <b>Ilytics Technology</b>, I led the development of a complete <b>Smart Parking System</b>  from <b>Python microservices</b> to a <b>React + Node.js dashboard</b>  that reduced manual input time.
 
 <h3>💡 What I Bring to the Table</h3>
 <ul>
