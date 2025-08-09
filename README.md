@@ -42,15 +42,11 @@ In early 2024, I began my AI/ML career with a passion for building scalable, rea
 During my internship at <b>Ilytics Technology</b>, I led the development of a complete <b>Smart Parking System</b> — from <b>Python microservices</b> to a <b>React + Node.js dashboard</b> — that reduced manual input time.
 
 <h3>💡 What I Bring to the Table</h3>
-- <b>Core Skills:</b> Python, TensorFlow, PyTorch, FastAPI, React, Cloud Infrastructure  
-- <b>Specialties:</b> NLP, Computer Vision, LLMs, and AI agent production deployment  
-- <b>Strengths:</b> End-to-end solution building, prompt engineering, and scalable system design  
-
-<h3>🎯 My Next Step</h3>
-I’m actively seeking <b>AI/ML Engineer</b>, <b>Research</b>, or <b>SDE</b> roles where I can contribute to innovative projects and keep pushing the limits of what AI can do.
-
-<h3>⚡ Closing Statement</h3>
-I deliver AI solutions that are not just functional — but <b>impactful</b>, <b>scalable</b>, and <b>ready for real-world challenges</b>.
+<ul>
+  <li><b>Core Skills:</b> Python, TensorFlow, PyTorch, FastAPI, React, Cloud Infrastructure</li>
+  <li><b>Specialties:</b> NLP, Computer Vision, LLMs, and AI agent production deployment</li>
+  <li><b>Strengths:</b> End-to-end solution building, prompt engineering, and scalable system design</li>
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
